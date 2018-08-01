@@ -7,7 +7,7 @@ namespace OpenNETCF.ComponentModel
     /// <summary>
     /// Provides the abstract base class for all licenses. A license is granted to a specific instance of a component.
     /// </summary>
-    public abstract class License: IDisposable
+    public abstract class License
     {
         /// <summary>
         /// Initializes a new instance of the License class.
